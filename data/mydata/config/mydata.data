@@ -1,0 +1,6 @@
+classes= 80
+train=data/mydata/config/train.txt
+valid=data/mydata/config/val.txt
+names=data/mydata/config/coco.names
+backup=backup/
+eval=coco

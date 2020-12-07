@@ -1,0 +1,11 @@
+*.DS_Store
+.git
+*.pth
+*.egg-info
+dist
+output
+data/coco
+backup
+*.weights
+__pycache__
+checkpoints
